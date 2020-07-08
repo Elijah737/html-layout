@@ -1,0 +1,52 @@
+body {
+    margin: 0px;
+    font-size: 25px;
+    line-height: 1.5em;
+}
+
+header {
+    width: 100%;
+    height: 100px;
+    background-color: grey;
+    display: flex;
+    align-items: center;
+}
+
+#logo {
+    width: 80px;
+    height: 80%;
+    background-color: blue;
+    margin-left: 20px;
+}
+
+p {
+    text-align: left;
+    margin: 10%;
+    margin-top: 90px;
+}
+
+section {
+    width: 100%;
+    height: 100vh;
+}
+
+#box {
+    width: 100%;
+    height: 25%;
+}
+
+.one {
+    background-color: cadetblue;
+}
+
+.two {
+    background-color: chartreuse;
+}
+
+.three {
+    background-color: darkcyan;
+}
+
+.four {
+    background-color: darkmagenta;
+}
